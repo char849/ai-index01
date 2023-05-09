@@ -1,0 +1,19 @@
+$font-primary: "Noto Sans TC";
+
+body {
+    font-family: $font-primary, serif;
+}
+
+p {
+    font-size: 14px;
+    line-height: 21px;
+    margin: 12px 0 12px 0;
+}
+
+.card-title {
+    margin: 0;
+}
+
+.object-fit-cover {
+    object-fit: cover;
+}
