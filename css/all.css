@@ -12863,6 +12863,10 @@ fieldset:disabled .btn {
   }
 }
 
+body {
+  font-family: "Noto Sans TC", serif;
+}
+
 p {
   font-size: 14px;
   line-height: 21px;
