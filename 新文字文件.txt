@@ -41,3 +41,6 @@ card
      col-8
 
 
+ git add .  git commit -m ''  跟git push
+
+
