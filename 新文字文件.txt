@@ -43,4 +43,10 @@ card
 
  git add .  git commit -m ''  跟git push
 
+助教回覆
+https://rpg.hexschool.com/user/task/47013/show
+
+sass結構
+https://ithelp.ithome.com.tw/articles/10275111
+
 
