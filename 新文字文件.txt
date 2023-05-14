@@ -5,7 +5,7 @@ https://codepen.io/char849/pen/mdzXxGV?editors=1100
 https://codepen.io/winter_/pen/XWxzLaO
 
 
-spacer  mt-6  
+spacer  mt-6 
 
 radius 1rem = 16px
 
