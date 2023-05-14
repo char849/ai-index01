@@ -43,6 +43,9 @@ card
 
  git add .  git commit -m ''  跟git push
 
+告訴 Git 強制將你的檔案推上去
+git push -f
+
 助教回覆
 https://rpg.hexschool.com/user/task/47013/show
 
