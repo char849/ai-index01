@@ -28,7 +28,7 @@ a {
 
 .card-img {
   overflow: hidden;
-  &:hover .images {
+  &:hover .image {
     transform: scale(1.3);
     transition-duration: 500ms;
   }

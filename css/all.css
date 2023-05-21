@@ -13269,7 +13269,7 @@ a:hover {
   overflow: hidden;
 }
 
-.card-img:hover .images {
+.card-img:hover .image {
   -webkit-transform: scale(1.3);
           transform: scale(1.3);
   -webkit-transition-duration: 500ms;
